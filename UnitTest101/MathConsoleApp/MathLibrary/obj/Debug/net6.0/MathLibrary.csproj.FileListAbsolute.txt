@@ -1,0 +1,11 @@
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\bin\Debug\net6.0\MathLibrary.deps.json
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\bin\Debug\net6.0\MathLibrary.dll
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\bin\Debug\net6.0\MathLibrary.pdb
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\MathLibrary.AssemblyInfoInputs.cache
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\MathLibrary.AssemblyInfo.cs
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\MathLibrary.csproj.CoreCompileInputs.cache
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\MathLibrary.dll
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\refint\MathLibrary.dll
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\MathLibrary.pdb
+D:\test\UnitTest101\MathConsoleApp\MathLibrary\obj\Debug\net6.0\ref\MathLibrary.dll
